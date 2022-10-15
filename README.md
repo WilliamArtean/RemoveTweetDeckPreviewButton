@@ -1,0 +1,1 @@
+This Mozilla Firefox add-on removes the "Try new TweetDeck Preview button" from the classic desktop TweetDeck page.
