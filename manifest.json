@@ -6,7 +6,7 @@
     "description": "Remove the 'Try new TweetDeck Preview' button on the classic TweetDeck page",
     "homepage_url": "https://github.com/WilliamArtean/RemoveTweetDeckPreviewButton",
     "icons": {
-      "48": "icons/edgeworth.png"
+      "48": "icons/no-preview.png"
     },
   
     "content_scripts": [
